@@ -63,8 +63,6 @@ const Table = () => {
     }
   }, [channelToSymbolMap]);
 
-  console.log(cryptoData);
-
   return (
     <>
       {Object.keys(cryptoData).length === 5 ? (
