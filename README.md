@@ -3,8 +3,11 @@
 **React project Focus Trader**
 **                            **
 
-
 Hello,
+
+In this app you can watch live updates from top 5 cryptocurrency pairs.
+
+This project was created with help of Bitfinex WebSocket that you can find here: https://docs.bitfinex.com/docs
 
 **These are the steps to start this project:**
 
@@ -18,4 +21,4 @@ Hello,
 Note: You need to have Node environment and NPM installed
 ---
 
-You can also find this site live here: 
+You can also find this site live here: https://focus-trader.netlify.app/
