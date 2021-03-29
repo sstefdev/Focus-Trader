@@ -21,4 +21,4 @@ This project was created with help of Bitfinex WebSocket that you can find here:
 Note: You need to have Node environment and NPM installed
 ---
 
-You can also find this site live here: 
+You can also find this site live here: https://focus-trader.netlify.app/
