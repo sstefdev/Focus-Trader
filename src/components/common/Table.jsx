@@ -50,7 +50,6 @@ const Table = () => {
         if (Array.isArray(eventData)) {
           const [channelId, data] = eventData;
           const targetSymbol = channelToSymbolMap[String(channelId)];
-          console.log(eventData);
           setCryptoData((prevState) => ({
             ...prevState,
             [targetSymbol]: {

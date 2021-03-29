@@ -2,7 +2,6 @@ import React from "react";
 import TableData from "./TableData";
 
 const TableBody = ({ data }) => {
-  console.log(data);
   return (
     <>
       <tbody>
